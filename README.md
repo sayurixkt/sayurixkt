@@ -1,4 +1,7 @@
-### Hi there 👋
+### ˗ˏˋGreetings, people of the Earth´ˎ˗
+
+My name is Sayuri Kobayashi and I am 23 years old. Born and raised in São Paulo - Brazil, I have a passion for ⋆ aesthetic ⋆ things, so expect me to always be my perfectionist self and put my mind and heart on everything that I commit (pun intended).
+
 
 <!--
 **sayxkt/sayxkt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
