@@ -1,8 +1,8 @@
 ### ˗ˏˋGreetings, people of the Earth´ˎ˗
 
-  My name is Sayuri Kobayashi and I am 23 years old. Born and raised in São Paulo - Brazil, I have a passion for ⋆ aesthetic ⋆ things, so expect me to always be my perfectionist self and put my mind and heart on everything that I commit (pun intended).
-  I am midway in my Computer Science Bachelor's Degree and even though I'm somewhat new to this area, I couldn't be happier with my choice of career •ᴗ•
-  I'm currently an intern at Presence Tecnologia and my work is focused on software implementation. 
+  My name is Sayuri Kobayashi and I am 23 years old. Born and raised in São Paulo - Brazil, I have a passion for ⋆ aesthetic ⋆ things, so expect me to always be my perfectionist self and put my mind and heart on everything that I commit (pun intended). <br>
+  I am midway in my Computer Science Bachelor's Degree and even though I'm somewhat new to this area, I couldn't be happier with my choice of career •ᴗ• <br>
+  I'm currently an intern at Presence Tecnologia and my work is focused on software implementation.  <br>
 
 
 <!--
